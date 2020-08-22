@@ -40,22 +40,22 @@ void printDayOfWeek(int day)
 			std::cout << "Sunday";
 			break;
 		case MON:
-			std::cout << "Sunday";
+			std::cout << "Monday";
 			break;
 		case TUE:
-			std::cout << "Sunday";
+			std::cout << "Tuesday";
 			break;
 		case WED:
-			std::cout << "Sunday";
+			std::cout << "Wednesday";
 			break;
 		case THU:
-			std::cout << "Sunday";
+			std::cout << "Thursday";
 			break;
 		case FRI:
-			std::cout << "Sunday";
+			std::cout << "Friday";
 			break;
 		case SAT:
-			std::cout << "Sunday";
+			std::cout << "Saturday";
 			break;
 		default:
 			std::cout << "?";
