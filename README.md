@@ -7,8 +7,8 @@ A repository to supplement lectures in CSC232, Fall 2020 at Missouri State Unive
 Topic                             | Reading           | Example Code
 ----------------------------------|-------------------|-------------
 Classes, Libraries & Namespaces   | Appendix A.9-A.11 | [Sphere.h](src/review/Sphere.h), [Sphere.cpp](src/review/Sphere.cpp), [SphereInColor.h](src/review/SphereInColor.h), [SphereInColor.cpp](src/review/SphereInColor.cpp), [SphereDriver.cpp](src/review/SphereDriver.cpp)
-A Brief Introduction to Recursion | Weiss 1.3         | soon...
-C++ Classes                       | Weiss 1.4         | soon...
+A Brief Introduction to Recursion | Weiss 1.3         | [recur.cpp](src/weiss/recur.cpp)
+C++ Classes                       | Weiss 1.4         | [Figure 1.5: A complete declaration of an IntCell class](src/weiss/IntCellInline.h), [Figure 1.6: IntCell class with revisions](src/weiss/IntCellInlineInitialization.h), [Figure 1.7: IntCell class interface in file IntCell.h](src/weiss/IntCell.h), [Figure 1.8: IntCell class implementation in file IntCell.cpp](src/weiss/IntCell.cpp), [Figure 1.9: Program that uses IntCell in file TestIntCell.cpp](src/weiss/TestIntCell.cpp), [Figure 1.10: Using the vector class](src/weiss/UseVector.cpp)
 
 ## Week 1
 
