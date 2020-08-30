@@ -5,7 +5,7 @@
 
 #include <cstdlib>
 #include <iostream>
-#include "IntCell.h"
+#include "fig1-7.h"
 
 int main()
 {

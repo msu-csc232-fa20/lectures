@@ -16,7 +16,7 @@ Topic                             | Reading           | Example Code
 ----------------------------------|-------------------|-------------
 Classes, Libraries & Namespaces   | Appendix A.9-A.11 | [Sphere.h](src/review/Sphere.h), [Sphere.cpp](src/review/Sphere.cpp), [SphereInColor.h](src/review/SphereInColor.h), [SphereInColor.cpp](src/review/SphereInColor.cpp), [SphereDriver.cpp](src/review/SphereDriver.cpp)
 A Brief Introduction to Recursion | Weiss 1.3         | [recur.cpp](src/weiss/recur.cpp)
-C++ Classes                       | Weiss 1.4         | [Figure 1.5: A complete declaration of an IntCell class](src/weiss/IntCellInline.h), [Figure 1.6: IntCell class with revisions](src/weiss/IntCellInlineInitialization.h), [Figure 1.7: IntCell class interface in file IntCell.h](src/weiss/IntCell.h), [Figure 1.8: IntCell class implementation in file IntCell.cpp](src/weiss/IntCell.cpp), [Figure 1.9: Program that uses IntCell in file TestIntCell.cpp](src/weiss/TestIntCell.cpp), [Figure 1.10: Using the vector class](src/weiss/UseVector.cpp)
+C++ Classes                       | Weiss 1.4         | [Figure 1.5: A complete declaration of an IntCell class](src/weiss/fig1-5.h), [Figure 1.6: IntCell class with revisions](src/weiss/fig1-6.h), [Figure 1.7: IntCell class interface in file IntCell.h](src/weiss/fig1-7.h), [Figure 1.8: IntCell class implementation in file IntCell.cpp](src/weiss/fig1-8.cpp), [Figure 1.9: Program that uses IntCell in file TestIntCell.cpp](src/weiss/fig1-9.cpp), [Figure 1.10: Using the vector class](src/weiss/fig1-10.cpp)
 
 In Week 2, we also had our first quiz. Below are links to sample code that is related to the quiz:
 
