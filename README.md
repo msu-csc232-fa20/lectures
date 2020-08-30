@@ -1,5 +1,14 @@
 # lectures
+
 A repository to supplement lectures in CSC232, Fall 2020 at Missouri State University as taught by Jim Daehn
+
+## Week 2
+
+Topic                             | Reading           | Example Code
+----------------------------------|-------------------|-------------
+Classes, Libraries & Namespaces   | Appendix A.9-A.11 | [Sphere.h](src/review/Sphere.h), [Sphere.cpp](src/review/Sphere.cpp), [SphereInColor.h](src/review/SphereInColor.h), [SphereInColor.cpp](src/review/SphereInColor.cpp), [SphereDriver.cpp]
+A Brief Introduction to Recursion | Weiss 1.3         | soon...
+C++ Classes                       | Weiss 1.4         | soon...
 
 ## Week 1
 
