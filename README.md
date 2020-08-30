@@ -2,6 +2,14 @@
 
 A repository to supplement lectures in CSC232, Fall 2020 at Missouri State University as taught by Jim Daehn
 
+## Week 3
+
+Week 3 is all about some of the finer details of C++: the concept of l-values, r-values and references, parameter passing and return passing mechanisms as well as what we refer to as the "Big-Five" operations (copy constructor, move constructor, copy assignment operator, move assignment operator and the destructor) all which "come for free" in C++ but under certain scenarios, must be dealt with by the programmer.
+
+Topic       | Reading   | Example Code
+------------|-----------|-------------
+C++ Details | Weiss 1.5 | [Figure 1.11](src/weiss/fig1-11.cpp)
+
 ## Week 2
 
 Topic                             | Reading           | Example Code
