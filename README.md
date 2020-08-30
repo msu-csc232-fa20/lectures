@@ -10,6 +10,11 @@ Classes, Libraries & Namespaces   | Appendix A.9-A.11 | [Sphere.h](src/review/Sp
 A Brief Introduction to Recursion | Weiss 1.3         | [recur.cpp](src/weiss/recur.cpp)
 C++ Classes                       | Weiss 1.4         | [Figure 1.5: A complete declaration of an IntCell class](src/weiss/IntCellInline.h), [Figure 1.6: IntCell class with revisions](src/weiss/IntCellInlineInitialization.h), [Figure 1.7: IntCell class interface in file IntCell.h](src/weiss/IntCell.h), [Figure 1.8: IntCell class implementation in file IntCell.cpp](src/weiss/IntCell.cpp), [Figure 1.9: Program that uses IntCell in file TestIntCell.cpp](src/weiss/TestIntCell.cpp), [Figure 1.10: Using the vector class](src/weiss/UseVector.cpp)
 
+In Week 2, we also had our first quiz. Below are links to sample code that is related to the quiz:
+
+1. Section 01 (Tuesday Lab): [quiz01a.cpp](src/quiz/quiz01a.cpp)
+1. Section 02 (Thursday Lab): [quiz01b.cpp](src/quiz/quiz01b.cpp)
+
 ## Week 1
 
 Topic                            | Reading          | Example Code
