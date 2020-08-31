@@ -8,7 +8,7 @@ Week 3 is all about some of the finer details of C++: the concept of l-values, r
 
 Topic       | Reading   | Example Code
 ------------|-----------|-------------
-C++ Details | Weiss 1.5 | [Figure 1.11](src/weiss/fig1-11.cpp)
+C++ Details | Weiss 1.5 | [Figure 1.11: Program that uses pointers to IntCell (there is no compelling reason to do this)](src/weiss/fig1-11.cpp), [Figure 1.16: Data member is a pointer; defaults are no good](src/weiss/fig1-16.h), [Figure 1.17: Simple function that exposes problems in Figure 1.16](src/weiss/fig1-17.cpp), [Figure 1.18: Data member is a pointer, big-five is written]
 
 ## Week 2
 
