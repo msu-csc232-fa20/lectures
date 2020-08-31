@@ -6,6 +6,8 @@
 #ifndef INT_CELL_H__
 #define INT_CELL_H__
 
+#include <utility>
+
 class IntCell
 {
 public:
