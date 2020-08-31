@@ -1,4 +1,4 @@
-#include "IntCell.h"
+#include "fig1-7.h"
 
 /**
  * Construct the IntCell with initialValue
